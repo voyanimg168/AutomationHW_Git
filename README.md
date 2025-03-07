@@ -1,1 +1,1 @@
-# AutomationHW_Git
+# Automation Lesson - Git Homework
